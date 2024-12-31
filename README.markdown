@@ -34,6 +34,8 @@ XPwn.
 Credits
 -------
 
+[testingthings](https://github.com/justtestingafewthings) for [adding the '-ivk' argument to pass ivkey](https://github.com/justtestingafewthings/daibutsuCFW/commit/acfe2c9417a7bdbb185c119e31b5f1d5f9ac9f46)
+
 This utility is merely an implementation of Pwnage, which is the work of
 roxfan, Turbo, wizdaz, bgm, and pumpkin. Those guys are the real heroes.
 
